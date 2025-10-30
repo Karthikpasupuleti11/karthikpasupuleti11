@@ -183,16 +183,26 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 
 ---
 
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Karthikpasupuleti11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthikpasupuleti11&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikpasupuleti11&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikpasupuleti11&theme=tokyo-night&hide_border=true&bg_color=1a1b27" width="49%" />
-
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=Karthikpasupuleti11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" width="100%" />
+</td>
+<td width="50%" valign="top">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthikpasupuleti11&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" width="100%" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikpasupuleti11&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" width="100%" />
+</td>
+<td width="50%" valign="top">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikpasupuleti11&theme=tokyo-night&hide_border=true&bg_color=1a1b27" width="100%" />
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -200,11 +210,11 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 ## 🏆 Achievements & Recognition
 
 
-🔹**4x National Hackathon Winner** - 24-Hour Competitions  
+🔹 **4x National Hackathon Winner** - 24-Hour Competitions  
 
-🔹**Google Developer Group Vijayawada** - Active Member & Contributor  
+🔹 **Google Developer Group Vijayawada** - Active Member & Contributor  
 
-🔹**Stanford, Harvard, Google, Databricks** - AI/ML Certifications
+🔹 **Stanford, Harvard, Google, Databricks** - AI/ML Certifications
 
 ---
 
