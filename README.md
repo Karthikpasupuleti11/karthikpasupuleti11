@@ -10,7 +10,7 @@
 
 </div>
 
----
+
 
 ## 🚀 About Me
 
@@ -18,7 +18,7 @@ Research-focused **AI/ML Engineer** specializing in **Machine Learning**, **Deep
 
 Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision • Transformer Models • LLMs • Quantum ML
 
----
+
 
 ## 🔬 Research & Publications
 
@@ -44,7 +44,7 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 
 🔹 **Short-to-Long: AI Pipeline for Video-to-Reel Summarization** | *ICCCNT 2025*
 
----
+
 
 ## 💼 Professional Journey
 
