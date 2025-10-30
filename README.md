@@ -10,7 +10,7 @@
 
 </div>
 
-
+---
 
 ## 🚀 About Me
 
@@ -18,14 +18,12 @@ Research-focused **AI/ML Engineer** specializing in **Machine Learning**, **Deep
 
 Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision • Transformer Models • LLMs • Quantum ML
 
-
+---
 
 ## 🔬 Research & Publications
 
 
-
 ### 📜 Patents
-
 
 
 🔹 **AI-IoT Powered Dual-Stage Crowd Risk Detection System**
@@ -33,9 +31,7 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 🔹 **AI and Deep Learning for Adolescent Health Monitoring and Intervention**
 
 
-
 ### 📄 IEEE Conference Publications (2025)
-
 
 
 🔹 **Automated Monitoring and Real-Time Alert System for DWLRs** | *ICCCNT 2025*
@@ -44,7 +40,7 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 
 🔹 **Short-to-Long: AI Pipeline for Video-to-Reel Summarization** | *ICCCNT 2025*
 
-
+---
 
 ## 💼 Professional Journey
 
@@ -99,6 +95,7 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 
 </div>
 
+---
 
 ## 🎯 Featured Projects
 
