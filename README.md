@@ -2,6 +2,7 @@
 
 # Hi, I'm Karthik Pasupuleti — an AI & ML Enthusiast.
 
+
 ### AI/ML Research Intern @ C-DAC Hyderabad
 
 [![Email](https://img.shields.io/badge/Email-karthikpasupuletip%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikpasupuletip@gmail.com)
