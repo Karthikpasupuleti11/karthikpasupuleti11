@@ -46,7 +46,7 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 
 ---
 
-##💼 Professional Journey
+## 💼 Professional Journey
 
 <div align="center">
   
@@ -98,7 +98,7 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 </table>
 
 </div>
----
+
 
 ## 🎯 Featured Projects
 
