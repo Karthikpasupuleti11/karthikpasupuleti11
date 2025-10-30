@@ -199,7 +199,6 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 
 ## 🏆 Achievements & Recognition
 
----
 
 🔹**4x National Hackathon Winner** - 24-Hour Competitions  
 
@@ -227,6 +226,6 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 
 <div align="center">
 
-### ⚡ "Turning Data into Intelligence, One Model at a Time" ⚡
+###  "Turning Data into Intelligence, One Model at a Time" 
 
 </div>
