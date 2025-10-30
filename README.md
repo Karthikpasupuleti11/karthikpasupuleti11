@@ -26,7 +26,7 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 
 ### 📜 Patents
 
----
+
 
 🔹 **AI-IoT Powered Dual-Stage Crowd Risk Detection System**
 
@@ -36,7 +36,7 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 
 ### 📄 IEEE Conference Publications (2025)
 
----
+
 
 🔹 **Automated Monitoring and Real-Time Alert System for DWLRs** | *ICCCNT 2025*
 
