@@ -46,11 +46,10 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 
 ---
 
-## 💼 Professional Journey
-
+💼 Professional Journey
 <table>
 <tr>
-<td width="35%">
+<td width="33%">
 <div align="center">
 <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="60"/>
 <h3>C-DAC Hyderabad</h3>
@@ -58,13 +57,12 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 <i>Aug 2025 - Present</i>
 </div>
 <ul style="text-align: left; margin-top: 10px; line-height: 1.8;">
-<li> ML Research & Development</li>
-<li> Data Preprocessing Pipelines</li>
-<li> Quantum Anomaly Detection</li>
+<li>🔹 ML Research & Development</li>
+<li>🔹 Data Preprocessing Pipelines</li>
+<li>🔹 Quantum Anomaly Detection</li>
 </ul>
 </td>
-
-<td width="35%">
+<td width="33%">
 <div align="center">
 <img src="https://img.icons8.com/color/96/database.png" width="60"/>
 <h3>APSCSC</h3>
@@ -72,13 +70,12 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 <i>Jun 2025 - Aug 2025</i>
 </div>
 <ul style="text-align: left; margin-top: 10px; line-height: 1.8;">
-<li> Supply Chain Analytics</li>
-<li> Large-Scale Data Analysis</li>
-<li> Data-Driven Decision Support</li>
+<li>🔹 Supply Chain Analytics</li>
+<li>🔹 Large-Scale Data Analysis</li>
+<li>🔹 Data-Driven Decision Support</li>
 </ul>
 </td>
-
-<td width="35%">
+<td width="33%">
 <div align="center">
 <img src="https://img.icons8.com/color/96/computer.png" width="60"/>
 <h3>Efftronics Systems</h3>
@@ -86,9 +83,9 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 <i>Dec 2022 - Jun 2023</i>
 </div>
 <ul style="text-align: left; margin-top: 10px; line-height: 1.8;">
-<li> <b>20%</b> Faster Response Times</li>
-<li> <b>30%</b> Reduced Manual Work</li>
-<li> Cloud Workflow Optimization</li>
+<li>🔹 <b>20%</b> Faster Response Times</li>
+<li>🔹 <b>30%</b> Reduced Manual Work</li>
+<li>🔹 Cloud Workflow Optimization</li>
 </ul>
 </td>
 </tr>
