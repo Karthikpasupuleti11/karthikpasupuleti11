@@ -2,7 +2,7 @@
 
 # Hi, I'm Karthik Pasupuleti — an AI & ML Enthusiast.
 
-
+### AI/ML Research Intern @ C-DAC Hyderabad
 
 [![Email](https://img.shields.io/badge/Email-karthikpasupuletip%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikpasupuletip@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-pasupuleti-426238324)
@@ -49,59 +49,51 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 
 ## 💼 Professional Journey
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; color: #ffffff; font-family: 'Segoe UI', sans-serif;">
-
-  <div style="flex: 0 0 48%; text-align: center; margin-bottom: 20px; background: #1e1e1e; padding: 20px; border-radius: 10px; border: 1px solid #333;">
-    <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="60"/>
-    <h3 style="margin-top: 10px;">C-DAC Hyderabad</h3>
-    <b>AIML Research Intern</b><br/>
-    <i>Aug 2025 - Present</i>
-    <ul style="text-align: left; list-style-type: '🔹 '; margin-top: 10px; line-height: 1.6;">
-      <li>ML Research & Development</li>
-      <li>Data Preprocessing Pipelines</li>
-      <li>Quantum Anomaly Detection</li>
-    </ul>
-  </div>
-
-  <div style="flex: 0 0 48%; text-align: center; margin-bottom: 20px; background: #1e1e1e; padding: 20px; border-radius: 10px; border: 1px solid #333;">
-    <img src="https://img.icons8.com/color/96/database.png" width="60"/>
-    <h3 style="margin-top: 10px;">APSCSC</h3>
-    <b>Project Intern</b><br/>
-    <i>Jun 2025 - Aug 2025</i>
-    <ul style="text-align: left; list-style-type: '🔹 '; margin-top: 10px; line-height: 1.6;">
-      <li>Supply Chain Analytics</li>
-      <li>Large-Scale Data Analysis</li>
-      <li>Data-Driven Decision Support</li>
-    </ul>
-  </div>
-
-  <div style="flex: 0 0 48%; text-align: center; margin-bottom: 20px; background: #1e1e1e; padding: 20px; border-radius: 10px; border: 1px solid #333;">
-    <img src="https://img.icons8.com/fluency/96/innovation.png" width="60"/>
-    <h3 style="margin-top: 10px;">Microsoft & SAP - Edunet Foundation</h3>
-    <b>AI Intern (Remote)</b><br/>
-    <i>Nov 2024 - Dec 2024</i>
-    <ul style="text-align: left; list-style-type: '🔹 '; margin-top: 10px; line-height: 1.6;">
-      <li>AI-Driven Solutions</li>
-      <li>ML Model Implementation</li>
-      <li>Ethical AI Applications</li>
-    </ul>
-  </div>
-
-  <div style="flex: 0 0 48%; text-align: center; margin-bottom: 20px; background: #1e1e1e; padding: 20px; border-radius: 10px; border: 1px solid #333;">
-    <img src="https://img.icons8.com/color/96/computer.png" width="60"/>
-    <h3 style="margin-top: 10px;">Efftronics Systems</h3>
-    <b>System Admin Intern</b><br/>
-    <i>Dec 2022 - Jun 2023</i>
-    <ul style="text-align: left; list-style-type: '🔹 '; margin-top: 10px; line-height: 1.6;">
-      <li><b>20%</b> Faster Response Times</li>
-      <li><b>30%</b> Reduced Manual Work</li>
-      <li>Cloud Workflow Optimization</li>
-    </ul>
-  </div>
-
+<table>
+<tr>
+<td width="35%">
+<div align="center">
+<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="60"/>
+<h3>C-DAC Hyderabad</h3>
+<b>AIML Research Intern</b><br/>
+<i>Aug 2025 - Present</i>
 </div>
+<ul style="text-align: left; margin-top: 10px; line-height: 1.8;">
+<li> ML Research & Development</li>
+<li> Data Preprocessing Pipelines</li>
+<li> Quantum Anomaly Detection</li>
+</ul>
+</td>
 
+<td width="35%">
+<div align="center">
+<img src="https://img.icons8.com/color/96/database.png" width="60"/>
+<h3>APSCSC</h3>
+<b>Project Intern</b><br/>
+<i>Jun 2025 - Aug 2025</i>
+</div>
+<ul style="text-align: left; margin-top: 10px; line-height: 1.8;">
+<li> Supply Chain Analytics</li>
+<li> Large-Scale Data Analysis</li>
+<li> Data-Driven Decision Support</li>
+</ul>
+</td>
 
+<td width="35%">
+<div align="center">
+<img src="https://img.icons8.com/color/96/computer.png" width="60"/>
+<h3>Efftronics Systems</h3>
+<b>System Admin Intern</b><br/>
+<i>Dec 2022 - Jun 2023</i>
+</div>
+<ul style="text-align: left; margin-top: 10px; line-height: 1.8;">
+<li> <b>20%</b> Faster Response Times</li>
+<li> <b>30%</b> Reduced Manual Work</li>
+<li> Cloud Workflow Optimization</li>
+</ul>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -209,11 +201,11 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 
 ---
 
- 🔹 **4x National Hackathon Winner** - 24-Hour Competitions  
+🔹**4x National Hackathon Winner** - 24-Hour Competitions  
 
- 🔹 **Google Developer Group Vijayawada** - Active Member & Contributor  
+🔹**Google Developer Group Vijayawada** - Active Member & Contributor  
 
- 🔹 **Stanford, Harvard, Google, Databricks** - AI/ML Certifications
+🔹**Stanford, Harvard, Google, Databricks** - AI/ML Certifications
 
 ---
 
