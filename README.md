@@ -105,7 +105,7 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 <tr>
 <td width="33%">
 
-### 🤖 AutoGrader
+### AutoGrader
 **AI-Powered Answer Evaluation**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -122,7 +122,7 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 </td>
 <td width="33%">
 
-### 📊 DWLR Alert System
+### DWLR Alert System
 **Real-Time Monitoring**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -138,7 +138,7 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 </td>
 <td width="33%">
 
-### ⚛️ Hybrid Quantum-Classical
+### Hybrid Quantum-Classical
 **Anomaly Detection**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -183,7 +183,7 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 
 ---
 
-📊 GitHub Stats
+ GitHub Stats
 <div align="center">
 <table>
 <tr>
