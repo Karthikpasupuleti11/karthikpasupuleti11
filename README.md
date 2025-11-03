@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 Research-focused **AI/ML Engineer** specializing in **Machine Learning**, **Deep Learning**, and **Computer Vision**. Currently conducting cutting-edge research at **C-DAC Hyderabad** on advanced ML methodologies and **Quantum Machine Learning** applications. Passionate about building intelligent systems that solve real-world problems through innovative AI solutions.
 
@@ -20,10 +20,10 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 
 ---
 
-## 🔬 Research & Publications
+##  Research & Publications
 
 
-### 📜 Patents
+###  Patents
 
 
 🔹 **AI-IoT Powered Dual-Stage Crowd Risk Detection System**
@@ -31,7 +31,7 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 🔹 **AI and Deep Learning for Adolescent Health Monitoring and Intervention**
 
 
-### 📄 IEEE Conference Publications (2025)
+###  IEEE Conference Publications (2025)
 
 
 🔹 **Automated Monitoring and Real-Time Alert System for DWLRs** | *ICCCNT 2025*
@@ -42,7 +42,7 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 
 ---
 
-## 💼 Professional Journey
+##  Professional Journey
 
 <div align="center">
   
@@ -97,7 +97,7 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 
 ---
 
-## 🎯 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -159,7 +159,7 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -207,7 +207,7 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 
 ---
 
-## 🏆 Achievements & Recognition
+##  Achievements & Recognition
 
 
 🔹 **4x National Hackathon Winner** - 24-Hour Competitions  
@@ -218,7 +218,7 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 
 ---
 
-## 📬 Let's Collaborate
+##  Let's Collaborate
 
 <div align="center">
 
