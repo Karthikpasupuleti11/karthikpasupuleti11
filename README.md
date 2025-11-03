@@ -177,13 +177,13 @@ Core Expertise: Machine Learning • Deep Learning • NLP • Computer Vision �
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Specializations:** Transformer Models • Deep Learning • Computer Vision • LLMs • NLP • Quantum ML
+**Specializations:** • AI • Machine Learning • Deep Learning • Transformer Models • Computer Vision • LLMs • NLP • Quantum ML
 
 </div>
 
 ---
 
- GitHub Stats
+## GitHub Stats
 <div align="center">
 <table>
 <tr>
